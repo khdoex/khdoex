@@ -1,7 +1,7 @@
 ### Hey I am Kaan,
 Currently working on SCL & LLM Interpretability
 
-find me at kaanhho.com
+find me at [personal website](kaanhho.com)
 
 <!--
 **khdoex/khdoex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
